@@ -1,0 +1,9 @@
+[submodule "a01-sushi-lmoore36"]
+	path = a01-sushi-lmoore36
+	url = https://github.com/COMP301F24/a01-sushi-lmoore36.git
+[submodule "a02-adventure-lmoore36"]
+	path = a02-adventure-lmoore36
+	url = https://github.com/COMP301F24/a02-adventure-lmoore36.git
+[submodule "a00setup-lmoore36"]
+	path = a00setup-lmoore36
+	url = https://github.com/COMP301F24/a00setup-lmoore36.git
