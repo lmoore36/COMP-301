@@ -10,3 +10,7 @@
 	path = a00setup-lmoore36
 	url = https://github.com/COMP301F24/a00setup-lmoore36.git
 	branch = main
+[submodule "a03-exceptions-lmoore36"]
+	path = a03-exceptions-lmoore36
+	url = https://github.com/COMP301F24/a03-exceptions-lmoore36.git
+	branch = detatched4
